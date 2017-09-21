@@ -1,0 +1,46 @@
+/*Header definitions*/
+
+div#header {
+	background-image:url("http://github.com/MartinaJajcajova/Portfolio/header.jpg");
+	height: 120px;
+	margin: auto;
+	width: 900px;
+	
+}
+
+a#index {
+	display: block;
+	width: 900px;
+	height: 120px;
+}
+
+/*Header definitions-end*/
+
+/*Menu definitions*/
+
+div#menu {
+	background:url("http://github.com/MartinaJajcajova/Portfolio/menu.jpg");
+	height: 700px;
+	margin: auto;
+	width: 230px;
+	float: left;
+}
+
+/*Menu definitions-end*/
+
+/*Content definitions*/
+
+div#content {
+	background:url("http://github.com/MartinaJajcajova/Portfolio/content.jpg");
+	height: 700px;
+	margin: auto;
+	width: 670px;
+	float: right;
+	overflow-y: scroll;
+	overflow-x: hidden;
+
+	background-repeat:no-repeat;
+	
+}
+
+/*Content definitions-end*/
