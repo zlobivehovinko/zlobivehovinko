@@ -1,7 +1,7 @@
 /*Header definitions*/
 
 div#header {
-	background-image:url("http://github.com/MartinaJajcajova/Portfolio/header.jpg");
+	background-image:url("https://github.com/MartinaJajcajova/Portfolio/blob/master/header.jpg");
 	height: 120px;
 	margin: auto;
 	width: 900px;
@@ -19,7 +19,7 @@ a#index {
 /*Menu definitions*/
 
 div#menu {
-	background:url("http://github.com/MartinaJajcajova/Portfolio/menu.jpg");
+	background:url("https://github.com/MartinaJajcajova/Portfolio/blob/master/menu.jpg");
 	height: 700px;
 	margin: auto;
 	width: 230px;
@@ -31,7 +31,7 @@ div#menu {
 /*Content definitions*/
 
 div#content {
-	background:url("http://github.com/MartinaJajcajova/Portfolio/content.jpg");
+	background:url("https://github.com/MartinaJajcajova/Portfolio/blob/master/content.jpg");
 	height: 700px;
 	margin: auto;
 	width: 670px;
